@@ -1,0 +1,82 @@
+{
+  "generic_dielectric": {
+    "metallic": 0.0,
+    "roughness": 0.62,
+    "variation": 0.08,
+    "basecolor_detail_weight": 0.025,
+    "normal_strength": 0.18
+  },
+  "painted_surface": {
+    "metallic": 0.0,
+    "roughness": 0.48,
+    "variation": 0.05,
+    "basecolor_detail_weight": 0.02,
+    "normal_strength": 0.10
+  },
+  "plaster": {
+    "metallic": 0.0,
+    "roughness": 0.82,
+    "variation": 0.10,
+    "basecolor_detail_weight": 0.035,
+    "normal_strength": 0.32
+  },
+  "concrete": {
+    "metallic": 0.0,
+    "roughness": 0.78,
+    "variation": 0.11,
+    "basecolor_detail_weight": 0.035,
+    "normal_strength": 0.28
+  },
+  "wood": {
+    "metallic": 0.0,
+    "roughness": 0.58,
+    "variation": 0.10,
+    "basecolor_detail_weight": 0.04,
+    "normal_strength": 0.20
+  },
+  "painted_metal": {
+    "metallic": 0.0,
+    "roughness": 0.38,
+    "variation": 0.05,
+    "basecolor_detail_weight": 0.015,
+    "normal_strength": 0.08
+  },
+  "bare_metal": {
+    "metallic": 1.0,
+    "roughness": 0.30,
+    "variation": 0.08,
+    "basecolor_detail_weight": 0.02,
+    "normal_strength": 0.12
+  },
+  "rusted_metal": {
+    "metallic": 0.15,
+    "roughness": 0.76,
+    "variation": 0.14,
+    "basecolor_detail_weight": 0.04,
+    "normal_strength": 0.30
+  },
+  "plastic": {
+    "metallic": 0.0,
+    "roughness": 0.42,
+    "variation": 0.04,
+    "basecolor_detail_weight": 0.015,
+    "normal_strength": 0.08
+  },
+  "rubber": {
+    "metallic": 0.0,
+    "roughness": 0.72,
+    "variation": 0.06,
+    "basecolor_detail_weight": 0.02,
+    "normal_strength": 0.16
+  },
+  "glass": {
+    "metallic": 0.0,
+    "roughness": 0.08,
+    "variation": 0.015,
+    "basecolor_detail_weight": 0.0,
+    "normal_strength": 0.03,
+    "ior": 1.5,
+    "transmission": 1.0
+  }
+}
+

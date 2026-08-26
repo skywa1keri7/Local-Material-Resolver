@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.blend1
+
+test-assets/
+test-output/
+
+pbr/
+pbr_v4/
+pbr_v4_final/
+pbr_v4_meshguard/
+
+dist/addon-staging/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
