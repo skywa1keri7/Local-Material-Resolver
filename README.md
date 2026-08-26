@@ -4,7 +4,6 @@
 [![Blender](https://img.shields.io/badge/Blender-4.2%2B-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/skywa1keri7/Local-Material-Resolver)
 [![License](https://img.shields.io/github/license/skywa1keri7/Local-Material-Resolver)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/skywa1keri7/Local-Material-Resolver/total)](https://github.com/skywa1keri7/Local-Material-Resolver/releases)
 
 **简体中文** | [English](README_EN.md)
 
